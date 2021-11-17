@@ -245,7 +245,8 @@ public:
     REMAP_CONFIG_P4 = 0x24,
     REMAP_CONFIG_P5 = 0x21,
     REMAP_CONFIG_P6 = 0x21,
-    REMAP_CONFIG_P7 = 0x24
+    REMAP_CONFIG_P7 = 0x24,
+    REMAP_CONFIG_P8 = 0x06 // custom remap!
   } adafruit_bno055_axis_remap_config_t;
 
   /** Remap Signs **/
